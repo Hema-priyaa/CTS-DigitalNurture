@@ -1,24 +1,31 @@
 EXCERSICE – 1:
+
 •	Define SPA and its benefits:
 A Single-Page Application (SPA) is a web application that loads a single HTML page. It dynamically updates that page as the user interacts with the app. Instead of fetching entirely new pages from the server, it retrieves data in the background (usually via JSON).
 1.	Fast Transitions: No full-page browser refreshes.
 2.	Fluid UX: Feels like a desktop application.
 3.	Reduced Server Load: The server sends data, not layout templates.
 4.	Easy Caching: Local data storage works efficiently.
+
 •	Define React and identify its working
 React is an open-source JavaScript library developed by Meta (Facebook) for building user interfaces, specifically for single-page applications.
 React operates on a component lifecycle. When data changes inside a component (via state or props), React triggers a re-render. Instead of rewriting the entire visible page directly, it runs the updates through an in-memory simulation step first to find the most efficient path to update the screen
+
 •	Identify the differences between SPA and MPA
 The main difference is that a Single-Page Application (SPA) loads a single HTML page and dynamically updates content as the user interacts, whereas a Multi-Page Application (MPA) requests and reloads a completely new HTML page from the server for every interaction.
+
 •	Explain Pros & Cons of Single-Page Application
 Pros
 Exceptional speed, Local caching, UX ,Component reuse
 Cons
 Heavy initial load, Poor SEO, Security risks, Memory leaks.
+
 •	Explain about React
 React is an open-source JavaScript library developed by Meta (formerly Facebook) used specifically for building user interfaces.
+
 •	Define virtual DOM
 The Virtual DOM (VDOM) is a lightweight, programming concept where an ideal, or "virtual", representation of a user interface is kept in memory and synced with the "real" DOM by a library such as ReactDOM.
+
 •	Explain Features of React : virtual DOM, One way data binding, use of JSX, Composition of Component. 
 
 OUTPUT:
