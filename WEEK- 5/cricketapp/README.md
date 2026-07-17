@@ -1,6 +1,7 @@
 Exercise - 9:
 
 1. List the features of ES6
+   
 ES6 introduced let and const for variable declaration.
 It supports classes, modules, and inheritance.
 It introduced arrow functions for shorter function syntax.
