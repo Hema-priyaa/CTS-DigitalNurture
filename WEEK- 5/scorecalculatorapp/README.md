@@ -1,3 +1,11 @@
+Exercise - 3
+
+OUTPUT:
+
+<img width="1916" height="708" alt="Screenshot 2026-07-17 082426" src="https://github.com/user-attachments/assets/7b10892b-7e48-4a15-9a2a-3f1d1a48fb7f" />
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
