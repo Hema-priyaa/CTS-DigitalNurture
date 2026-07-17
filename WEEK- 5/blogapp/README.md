@@ -23,6 +23,7 @@ These methods are executed automatically during the component's life cycle.
 
 OUTPUT:
 
+
 <img width="696" height="848" alt="Screenshot 2026-07-17 085049" src="https://github.com/user-attachments/assets/adbefa4d-f234-47a4-87fd-7b3c8c4f4e0a" />
 
 <img width="1633" height="872" alt="Screenshot 2026-07-17 085104" src="https://github.com/user-attachments/assets/cd970f59-677b-47d6-a557-7a196b04487c" />
