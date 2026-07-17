@@ -35,6 +35,7 @@ The Virtual DOM (VDOM) is a lightweight, programming concept where an ideal, or 
 •	Explain Features of React : virtual DOM, One way data binding, use of JSX, Composition of Component. 
 
 OUTPUT:
+
 <img width="1917" height="413" alt="Screenshot 2026-07-15 105758" src="https://github.com/user-attachments/assets/d2527ce0-5346-44f2-97f0-e2061ff69ba0" />
 
 
