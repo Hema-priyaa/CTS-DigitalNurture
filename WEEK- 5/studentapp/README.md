@@ -27,7 +27,6 @@ The render() method is a mandatory function inside every Class component. It tel
 
 
 OUTPUT:
-
  <img width="940" height="253" alt="image" src="https://github.com/user-attachments/assets/3cdf017e-82b2-4d7a-b641-d4d748d2d958" />
 
 
