@@ -1,0 +1,17 @@
+.App{
+    margin-left:150px;
+    margin-top:50px;
+    font-family:Arial;
+}
+
+.card{
+    margin-bottom:40px;
+}
+
+.textRed{
+    color:red;
+}
+
+.textGreen{
+    color:green;
+}
