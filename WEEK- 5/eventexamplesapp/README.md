@@ -1,3 +1,38 @@
+Exercise -11
+
+1. Explain React Events
+   
+React events are actions triggered by user interactions like clicks, typing, or form submission.
+They are similar to JavaScript events but work using React's event system.
+Events are handled using event handler functions.
+Examples include onClick, onChange, and onSubmit.
+
+2. Explain about Event Handlers
+   
+Event handlers are functions that execute when an event occurs.
+They are attached to JSX elements using event attributes like onClick.
+Event handlers can update state, display messages, or perform other actions.
+They are usually written as methods or arrow functions.
+
+3. Define Synthetic Event
+   
+A Synthetic Event is React's wrapper around the browser's native event.
+It provides a consistent event interface across all browsers.
+Synthetic events work similarly to native JavaScript events.
+They improve cross-browser compatibility and performance.
+
+4. Identify React Event Naming Convention
+React event names use camelCase instead of lowercase.
+Event handler functions are passed inside curly braces {}.
+For example, use onClick={handleClick} instead of onclick.
+Common React events are onClick, onChange, onSubmit, and onMouseOver.
+
+OUTPUT:
+<img width="1275" height="607" alt="Screenshot 2026-07-21 211241" src="https://github.com/user-attachments/assets/0bb62bcd-b436-4e58-bac3-461cf4f32ea8" />
+<img width="1377" height="630" alt="Screenshot 2026-07-21 211212" src="https://github.com/user-attachments/assets/8257b2a1-3da3-44ad-b0a9-1f35e4a5b4bb" />
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
