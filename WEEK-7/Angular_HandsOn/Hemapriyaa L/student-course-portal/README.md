@@ -1,3 +1,7 @@
+OUTPUT:
+<img width="1628" height="570" alt="Screenshot 2026-07-29 220135" src="https://github.com/user-attachments/assets/8c3921f9-71f9-460a-a0b8-3d573f769d3c" />
+
+
 # StudentCoursePortal
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.19.
