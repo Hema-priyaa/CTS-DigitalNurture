@@ -1,0 +1,57 @@
+* 5954f1f (HEAD -> main) Ignores the backup files
+*   2bf50cb Week-6-Exercise 4
+|\  
+| * e7e64e8 Added and updated hello.xml in GitWork
+* | 6e7b61d Added hello.xml in main
+* | 5a568ad Added and updated hello.xml in GitWork
+* | 3a53bbf Added hello.xml in main
+|/  
+* 8bc44f2 Added file in GitNewBranch
+* 13dddf9 Addded file in GitNewBranch
+* 69217a7 week-6
+* d9dd652 (origin/main) week-6
+* 1c05b02 Week-6 Exercise 1
+*   c5f75b9 Merge branch 'main' of https://github.com/Hema-priyaa/CTS-DigitalNurture
+|\  
+| * 19dea72 week 5 Exercise 12
+| * 3c01993 week 5 Exercise 12
+| * 818fd1b Delete WEEK- 5/ex5 directory
+| * d423f85 week 5 Exercise 11
+| * 8801cb7 week 5 Exercise 11
+| * 9331f14 week 5 Exercise 10
+| * 6bb5f05 Week 5 Exercise 10
+| * 09d6e31 week 5 Exercise 9
+| * 9eaa849 week 5 Exercise 9
+| * 88f7b08 week 5 Exercise 9
+| * 52caea8 Delete WEEK- 5/cricketapp directory
+| * 14fa64c week 5 Exercise 9
+| * 9949a3c Delete WEEK- 5/.vscode directory
+| * 6ebd10a week 5 Exercise 6
+| * cfe91fa week 5 Exersice 4
+| * b427206 week 5 Exersice 4
+| * e1eadb2 week 5 Exercise 4
+| * fbf15c5 week 5 Exersice 3
+| * bd60b6f week 5 Exersice
+| * 49a990b week 5 Excersice 2
+| * 6da8571 week 5 Excersice 2
+| * fcb9df1 week 5 Excersice
+| * c9f09eb week 5 Excersice 1
+| * d57d65b Week 5 Exercise 3
+| * 5968789  README.md
+| * c5618c0 Add week 5 React Exercisce 2
+| * ca15009 Delete WEEK- 5/Excercise-1
+| * 6b03a8a README.md
+| * a4cedde Update README.md
+| * 0ded1a7  README.md
+| * e782cce Add Week 5 React Exercise 1
+| * a625eaa Create Excercise-1
+| * c5d3a63 Week-4-Excercise
+| * 5d9137d Delete WEEK- 4 directory
+| * 628a5e7 Add files via upload
+| * 6c9248b Week-3-Excercise
+| * fb6fbcb Week-2-Excercise
+| * d1ffe57 WEEK 1- Exercises
+| * 94a1b20 Add files via upload
+| * d1d7b26 Add files via upload
+| * 4fd74f8 Add files via upload
+* c60cc2c Added welcome file

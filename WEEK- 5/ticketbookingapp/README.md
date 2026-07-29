@@ -1,6 +1,33 @@
-# Getting Started with Create React App
+Exercise - 12
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. Explain about Conditional Rendering in React
+
+Conditional rendering allows React to display different UI based on a condition.
+It uses JavaScript statements like if, if...else, the ternary operator (? :), or logical &&.
+It helps show or hide components depending on state or props.
+Example: Displaying a Login or Logout button based on the user's login status.
+
+2. Define Element Variables
+   
+Element variables are variables that store React elements (JSX).
+They make conditional rendering simpler and improve code readability.
+Different elements can be assigned to a variable based on a condition.
+Example: let button = isLoggedIn ? <LogoutButton /> : <LoginButton />;
+
+3. Explain how to Prevent Components from Rendering
+ 
+A component can be prevented from rendering by returning null from its render() method or function component.
+Returning null means nothing is displayed in the UI.
+This is useful when a component should be hidden based on a condition.
+Example: if (!show) return null; hides the component when show is false.# Getting Started with Create React App
+
+OUTPUT:
+
+<img width="947" height="623" alt="Screenshot 2026-07-22 214304" src="https://github.com/user-attachments/assets/ebad8665-5a6b-4bec-a151-9807ae9d924c" />
+
+<img width="647" height="606" alt="Screenshot 2026-07-22 214317" src="https://github.com/user-attachments/assets/2ba740da-4bec-4598-9766-160bd13769c5" />
+
+
 
 ## Available Scripts
 
